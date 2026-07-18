@@ -1,4 +1,5 @@
- 📋 About
+📋 About
+
 This intelligent PDF ChatBot application leverages 
 Retrieval-Augmented Generation (RAG) and a Dual LLM 
 Architecture powered by Groq's high-performance API. 
