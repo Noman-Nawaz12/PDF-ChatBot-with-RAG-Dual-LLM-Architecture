@@ -13,10 +13,6 @@ summarizes retrieved context while LLM 2 (llama-3.1-8b-instant)
 generates accurate, conversational responses with 
 full conversation memory support.
 
- 🚀 Live Demo
-[Click Here to Open App]([https://tumhara-link.streamlit.app](https://pdf-chatbot-with-rag-dual-llm-architecture-norvpfwgatum9zkjkfy.streamlit.app/))
-
-
 🛠️ Tech Stack
 - Streamlit
 - PyMuPDF
